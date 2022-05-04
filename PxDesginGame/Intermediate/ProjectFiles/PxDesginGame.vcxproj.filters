@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PxDesginGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{69391C50-EE11-439C-95EF-6AD8142141A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PxDesginGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PxDesginGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{ADD04745-1D5D-4A20-B6DA-2187190618F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PxDesginGame">
+      <UniqueIdentifier>{F0BFFCD9-25A1-43C6-8F15-006FBF950ED2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PxDesginGame\PxDesginGame.Build.cs">
+      <Filter>Source\PxDesginGame</Filter>
+    </None>
+    <None Include="..\..\Source\PxDesginGame\PxDesginGame.zip">
+      <Filter>Source\PxDesginGame</Filter>
+    </None>
+    <Filter Include="Source\PxDesginGame\Private">
+      <UniqueIdentifier>{692C13F9-75DE-4D20-A657-207DE3DE4BDD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\FTTPlayerCharacter.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\FTTPlayerController.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\GravityMoveComponent.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\Gun.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\ProjectileBase.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\PxDesginGame.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PxDesginGame\Private\PxDesginGameGameModeBase.cpp">
+      <Filter>Source\PxDesginGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PxDesginGame\Public">
+      <UniqueIdentifier>{9450ADA9-B34B-48B9-BE78-45D9543A1775}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\FTTPlayerCharacter.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\FTTPlayerController.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\GravityMoveComponent.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\Gun.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\ProjectileBase.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\PxDesginGame.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PxDesginGame\Public\PxDesginGameGameModeBase.h">
+      <Filter>Source\PxDesginGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

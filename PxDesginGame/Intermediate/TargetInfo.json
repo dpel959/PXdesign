@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PxDesginGame",
+			"Path": "C:\\Users\\dpel9\\Perforce\\PxDesignGame\\PxDesginGame\\Source\\PxDesginGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PxDesginGameEditor",
+			"Path": "C:\\Users\\dpel9\\Perforce\\PxDesignGame\\PxDesginGame\\Source\\PxDesginGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
